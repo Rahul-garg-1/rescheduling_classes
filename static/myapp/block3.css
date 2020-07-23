@@ -1,0 +1,52 @@
+
+.card{
+	margin-left:4%;
+	margin-right: 4%;
+	margin-bottom: 4%;
+	margin-top: 8%;
+}
+.card-text{
+	color: rgb(100, 117, 106);
+}
+.image{
+	margin-top: 6px;
+}
+.body{
+	padding-top: 70px;
+}
+.navbar-dark .navbar-brand{
+	color: rgb(222, 224, 215);
+}
+#abc{
+	color: orange;
+}
+.zoom1:hover{
+	transform: scale(1.2);
+
+	
+}
+
+
+.zoom2:hover{
+	transform: scale(1.2);
+}
+.zoom3:hover{
+	transform: scale(1.2);
+}
+
+/*.zoom {
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s; /* Animation 
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}*/
+
+/*#special{
+	margin-top: 8%;
+    margin-bottom: 4%;
+}
+#unique{
+margin-bottom: 4%;
+}*/

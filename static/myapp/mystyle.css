@@ -1,0 +1,18 @@
+.card{
+	margin-bottom: 20%;
+	margin-top: 20%;
+	padding-right: 10px;
+	padding-left: 10px;
+	height: 60%;
+	width: 40%;
+	background-color: rgba(235,247,245,0.5);
+}
+/*.card-header{
+	background-color: rgb(218,227,220);	
+}*/
+body{
+	/*background: url("http://www.fuccha.in/assets/timthumb.php?src=http://www.fuccha.in/uploads/post/13.-PEC_.png&w=893&h=502");*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+}

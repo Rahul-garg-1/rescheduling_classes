@@ -1,0 +1,20 @@
+.card{
+	margin-bottom: 20%;
+	margin-top: 20%;
+	padding-right: 10px;
+	padding-left: 10px;
+	height: 60%;
+	width: 40%;
+	background-color: rgba(235,247,245,0.5);
+}
+
+#some{
+margin-top:10px;
+}
+
+body{
+	background: url("https://cdn.pixabay.com/photo/2013/09/11/00/28/language-lab-181083_1280.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+}
